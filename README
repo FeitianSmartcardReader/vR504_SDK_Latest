@@ -53,16 +53,16 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
 [General Introduction]
     The Best Performance VHBR Reader going to start appearing on the scene 
 	
-	Today, FEITIAN announced the product availability of smart card reader able to support the world¡¯s fastest electronic passports (ePassports), which implements the state-of-the-art VHBR (Very High Bit Rates) contactless 
+	Today, FEITIAN announced the product availability of smart card reader able to support the worldâ€™s fastest electronic passports (ePassports), which implements the state-of-the-art VHBR (Very High Bit Rates) contactless 
 technology required in ICAO (International Civil Aviation Organization) LDS 2.0 Standard. Driving a new technology requires early availability and FEITIAN has been dedicated in supplying high-performance and high-quality smart 
-card  reader  portfolio  to  promote  outstanding  high-speed  communication  in  both  Reader¨Cto-Card  and Card-to-Reader direction     
+card  reader  portfolio  to  promote  outstanding  high-speed  communication  in  both  Readerâ€“to-Card  and Card-to-Reader direction     
 The Fastest Processing Speed perfect match for next-generation ePassport generations 
 
 	The VHBR protocol improves the stability of contactless communication between the electronic passport and the corresponding reader. To be able to process immigration security checks as efficiently as possible despite the 
 increased  amount  of  data,  the  VHBR  contactless  technology  enables  eight  times  faster  contactless  processing speed by electronic readers. To the benefit of both travelers and airport operators, passport data can be read at 
 fastest speed by contactless readers at electronic checkpoints in airports. 
  
-	The Industry¡¯s First VHBR CCID reader offering maximum compatibility and flexibility The USB CCID class driver reduces the need for hardware vendors to create a device-specific driver for smart card 
+	The Industryâ€™s First VHBR CCID reader offering maximum compatibility and flexibility The USB CCID class driver reduces the need for hardware vendors to create a device-specific driver for smart card 
 readers.  Eliminating  the  need  for  a  device-specific  driver  will  potentially  reduce  the  driver  development  cost, improve driver and system stability, reduce time to market, and lead to a simplified plug and play experience for 
 customers using devices compliant with the USB Chip/Smart Card Interface Devices (CCID) Specification. 
 	   	   
@@ -72,19 +72,11 @@ customers using devices compliant with the USB Chip/Smart Card Interface Devices
 	-  Power supply by USB, the usb interface must be provided 120mA current when insert card 
 	-  The maximum current less than 100mA (no smartcard insert) 
 	-  Accordance with CCID standard to do develop 
-	-  Contact card£º 
-	-  Support 1x full size card 
-	-  Support T0 and T1, in accordance with ISO 7816 
-	-  The card clock frequency 4MHz 
-	-  Support Class A, B, C, AB, BC, ABC 
-	-  Smart card communication speed: 10753bps ¨C 344086bps 
-	-  Card slot: ISO/IEC standard using 8 contacts, 100,000 plug time 
-	-  Support 1x GSM11.11 standard SIM card 
 	-  Contactless card: 
 	-  Build-in antenna 
 	-  Accordance with ISO/IEC 14443 (A and B) standard 
 	-  Support Mifare S50/S70/Ultralight C cards 
-	-  Support Bit rate£¬PCD to PICC up to 6.8M£¨fc/2£©£¬PICC to PCD up to 3.4M£¨fc/4£© 
+	-  Support Bit rateï¼ŒPCD to PICC up to 6.8Mï¼ˆfc/2ï¼‰ï¼ŒPICC to PCD up to 3.4Mï¼ˆfc/4ï¼‰ 
 	-  Operating distance (0-30mm), Mifare card(0-45mm), it depends on cards 
 	-  Card clock Frequency: 13.56MHz 
 	-  Automatically adjust communication rate speed between card reader and card to highest speed which card supported 
@@ -95,8 +87,8 @@ customers using devices compliant with the USB Chip/Smart Card Interface Devices
 [Supported Platforms]
 
 	-  Windows 2000/XP/2003/Vista/2008/7/8 
-	-  Linux Kernel 2.6+ (FC14 X64£¬ubuntu9.10£¬ubuntu10.04£¬ubuntu11.10£¬openSUSE11.3 X64) 
-	-  Mac OS X 
+	-  Linux Kernel 2.6+ (FC14 X64ï¼Œubuntu9.10ï¼Œubuntu10.04ï¼Œubuntu11.10ï¼ŒopenSUSE11.3 X64) 
+	-  macOS
 
  
 
