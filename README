@@ -1,6 +1,7 @@
---------------------- vR504 Software Developer's Kit --------------------
+--------------------- vR504 VHBR Reader SDK --------------------
 
-
+For the Feitian reader SDK on Android/iOS mobile device, please check this repo:
+https://github.com/FeitianSmartcardReader/FEITIAN_MOBILE_READERS
 
 ------------------- Folder Content List -------------------------------------
 
@@ -20,11 +21,9 @@ Copyright (c) Feitian Technologies Co. Ltd. All rights reserved.
 
 [Version Information]
     Model        : vR504
-    Firmware     : 0.06
+    Firmware     : 1.17
     SDK          : V1.0
-    Release Date : 2017-12-13
-    Language     : English
-
+    Release Date : 2022-05-05
 
 [Product Information]
 
@@ -91,4 +90,6 @@ customers using devices compliant with the USB Chip/Smart Card Interface Devices
 	-  macOS
 
  
-
+[Firmware Release log]
+    v1.17 (Release Date: 2022-05-05)
+    v1.12 (Release Date: 2020-08-10)
